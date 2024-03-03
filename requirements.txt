@@ -1,0 +1,11 @@
+notebook
+ipykernel
+numpy
+pandas
+pandas-profiling
+pydantic-settings
+tensorflow
+scikit-learn
+matplotlib
+seaborn
+xgboost
